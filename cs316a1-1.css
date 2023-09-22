@@ -1,0 +1,41 @@
+thead {
+    background-color:lightgreen;
+    text-align:center;
+}
+td {
+    background-color: lightgreen;
+    
+    
+}
+table {
+    text-align: center;
+    width: auto; 
+    border: 0;
+
+    
+}
+button {
+    align-items: center;
+    width: 100%;
+    background-color: white;
+    box-shadow: 1px 1px 2px gray;
+    border: 0;
+    
+}
+
+div {
+    background-color: lightgray; 
+}
+
+dt {
+    font: bold 16px "Times New Roman", Times;  
+}
+dd {
+    font: italic 15px "Times New Roman", Times;
+}
+
+input {
+    text-align: center;
+    font: bold 14px "Times New Roman", Times;
+    text-transform:capitalize; 
+}
